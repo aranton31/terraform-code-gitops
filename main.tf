@@ -3,7 +3,7 @@ provider "google" {
 }
 
 resource "google_compute_network" "gitops_vpc" {
-  name                    = "devopsshack-vpc"
+  name                    = "gitops-vpc"
   auto_create_subnetworks = false
 
   description = "VPC network for GitOps Project"
