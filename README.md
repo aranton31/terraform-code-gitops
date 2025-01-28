@@ -1,1 +1,1 @@
-This Repo contains code for setup Infrastructure on Google GCP
+This Repo contains code to setup Infrastructure on Google GCP
